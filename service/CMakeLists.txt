@@ -4,12 +4,12 @@ PROJECT(Service)
 include_directories(
     src
     src-gen
-    ../capicxx-core-runtime/include
-    ../capicxx-someip-runtime/include
-    ../vSomeIP/interface
+    /home/moatasem/vsomeip/capicxx-core-runtime/include
+    /home/moatasem/vsomeip/capicxx-someip-runtime/include
+    /home/moatasem/vsomeip/vSomeIP/interface
 )
 link_directories(
-    ../COMMONAPI
+    /home/moatasem/vsomeip/COMMONAPI
 )
 add_executable(HelloWorldService
     src/HelloWorldService.cpp
