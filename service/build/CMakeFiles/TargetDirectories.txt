@@ -1,0 +1,3 @@
+/home/moatasem/vsomeIp/app/service/build/CMakeFiles/rebuild_cache.dir
+/home/moatasem/vsomeIp/app/service/build/CMakeFiles/edit_cache.dir
+/home/moatasem/vsomeIp/app/service/build/CMakeFiles/HelloWorldService.dir
