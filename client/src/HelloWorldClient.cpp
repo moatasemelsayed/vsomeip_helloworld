@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <unistd.h>
-#include <CommonAPI-3.2/CommonAPI/CommonAPI.hpp>
+#include <CommonAPI/CommonAPI.hpp>
 #include <v1/commonapi/HelloWorldProxy.hpp>
   
 using namespace v1_0::commonapi;
